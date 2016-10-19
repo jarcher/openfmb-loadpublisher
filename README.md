@@ -28,4 +28,4 @@ Dwayne Bradley, Duke Energy, <email>
 
 # License
 
-Loadpublisher is available under the Apache 2.0 license. See the APACHE_FILE_HEADER file for more info.
+See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-common-mqtt/blob/master/APACHE_FILE_HEADER) file for more info.
