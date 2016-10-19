@@ -22,7 +22,7 @@ The main configures file is called "[LoadPublisher.properties](https://github.co
 
 David Lawrence, Duke Energy,  <email>
 
-Dwayne Bradely, Duke Energy, <email>
+Dwayne Bradley, Duke Energy, <email>
 
 
 # License
