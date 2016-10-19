@@ -1,6 +1,6 @@
 # README #
 
-Refer to (Wiki)[https://github.com/openfmb/dtech-demo-2016/wiki] for information on DTech Demo
+Refer to [Wiki](https://github.com/openfmb/dtech-demo-2016/wiki) for information on DTech Demo
 
 # Description
 The loadpubliser is a java application that publishes the OpenFMB Phase I Resource Reading using MQTT.
