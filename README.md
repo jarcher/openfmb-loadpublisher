@@ -1,5 +1,5 @@
 # README #
-![Logo of the Project](https://github.com/openfmb/dtech-demo-2016/blob/master/img/Open%20FMB%20Logos.png)
+// ![Logo of the Project](https://github.com/openfmb/dtech-demo-2016/blob/master/img/Open%20FMB%20Logos.png) //
 Refer to [Wiki](https://github.com/openfmb/dtech-demo-2016/wiki) for information on DTech Demo
 
 # Description
