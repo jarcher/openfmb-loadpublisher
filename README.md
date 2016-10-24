@@ -14,7 +14,7 @@ The loadpublisher jar above can we run with the entry point provided.
 
 ## Building
 
-The loadpublisher is dependent on the [openfmb-common-mqtt](https://github.com/openfmb/openfmb-common-mqtt).  To build the loadpublisher do the following:
+The loadpublisher is dependent on the [openfmb-common-mqtt](https://github.com/openfmb/openfmb-common-mqtt) repository.  To build the loadpublisher do the following:
 
 ```shell
 git clone https://github.com/openfmb/openfmb-loadpublisher.git
@@ -25,7 +25,7 @@ The build jar is put in the target directory and needs to be moved to the main d
 
 
 ## Configuration
-The main configures file is called "[LoadPublisher.properties](https://github.com/openfmb/openfmb-loadpublisher/blob/master/loadpublisher/LoadPublisher.properties)".  The user can set a number of parameters to including the following:
+The main configuration file is called "[LoadPublisher.properties](https://github.com/openfmb/openfmb-loadpublisher/blob/master/loadpublisher/LoadPublisher.properties)".  The user can set a number of parameters to affect the behavior of the application including the following:
 + MQTT Broker IP and Host
 + SSL Configuration Information
 + MQTT QOS
