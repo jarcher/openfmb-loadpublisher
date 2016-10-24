@@ -48,4 +48,4 @@ branch. Pull requests are warmly welcome.
 
 # License
 
-See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-common-mqtt/blob/master/APACHE_FILE_HEADER) file for more info.
+See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-loadpublisber/blob/master/APACHE_FILE_HEADER) file for more info.
