@@ -46,6 +46,8 @@ Dwayne Bradley, Duke Energy, <email>
 If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
+Please review the [CONTRIBUTING](https://github.com/openfmb/openfmb-simulators/blob/master/CONTRIBUTING.md) file. 
+
 # License
 
 See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-loadpublisber/blob/master/APACHE_FILE_HEADER) file for more info.
