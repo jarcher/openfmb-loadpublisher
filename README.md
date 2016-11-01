@@ -50,4 +50,4 @@ Please review the [CONTRIBUTING](https://github.com/openfmb/openfmb-simulators/b
 
 # License
 
-See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-loadpublisber/blob/master/APACHE_FILE_HEADER) file for more info.
+See the [APACHE_FILE_HEADER](https://github.com/openfmb/openfmb-loadpublisher/blob/master/APACHE_FILE_HEADER) file for more info.
