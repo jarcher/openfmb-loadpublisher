@@ -12,6 +12,11 @@ java -cp openfmb-loadpublisher-1.0-jar-with-dependencies.jar com.dukeenergy.eto.
 ```
 The loadpublisher jar above can we run with the entry point provided.  
 
+## Dependencies
+
+Please refer to the Wiki pages for the [Demonstration]https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Demonstration] and (Prerequisites)[https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Prerequisites].
+
+
 ## Building
 
 The loadpublisher is dependent on the [openfmb-common-mqtt](https://github.com/openfmb/openfmb-common-mqtt) repository.  To build the loadpublisher do the following:
