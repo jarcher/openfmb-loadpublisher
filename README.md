@@ -14,7 +14,7 @@ The loadpublisher jar above can we run with the entry point provided.
 
 ## Dependencies
 
-Please refer to the Wiki pages for the [Demonstration]https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Demonstration] and (Prerequisites)[https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Prerequisites].
+Please refer to the Wiki pages for the [Demonstration](https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Demonstration) and [Prerequisites](https://github.com/openfmb/turnkey-dtech-demo-2016/wiki/Simulation-Prerequisites) for the demo and these cooresponding repository projects. 
 
 
 ## Building
